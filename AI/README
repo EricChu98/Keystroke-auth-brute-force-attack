@@ -1,0 +1,17 @@
+AI
+
+data-analysis.ipynb:
+aggregating_data.ipynb:
+These two scripts aggregate data from raw dataset. The raw data is provided as values devided by comma, in txt files. This script makes them to a csv file.
+
+Keystroke-AI.ipynb:
+This is the records that we were exploring AI models. We used this for looking for a proper model to do our experiment.
+
+Keystroke-Biometrics-Final.ipynb:
+This script is used for the final training and testing. 
+
+Keystroke-Biometrics-with-all-users.ipynb:
+This script is used for obtain the final result. It includes the training, testing and attacking for all users based on the bigram 'th'.
+
+Tensorflow.ipynb:
+This is not in use. We tried to use Tensorflow, but we don't have time to finish it.

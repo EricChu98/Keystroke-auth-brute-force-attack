@@ -1,0 +1,14 @@
+scripts
+
+
+feature_extract.m:
+This is a MATLAB script to extract the features Hold_Duration, DD_Duration, UU_Duration, UD_duration.
+
+bigrams.m:
+This is to extract bigrams we want. By searching the bigrams with key press ID, we can saperate 20 bigrams we chose into 20 csv files.
+
+42.csv:
+This is a table recorded the data after feature extraction. We've got rid of the data like for "backspace", and "shift + another key".
+
+62.csv:
+This is a table recorded the data as well as our observations.

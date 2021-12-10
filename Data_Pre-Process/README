@@ -1,0 +1,19 @@
+Data_Pre-Process
+
+
+./script:
+This folder contains the scripts and data for feature and bigrams extraction.
+
+./bigrams:
+This folder contains 20 bigrams we extracted.
+
+./TrainTest:
+This folder contains our binary training and testing data. The naming rule is as follows:
+a <target> - <random user#1> - <random user#2> .csv
+b <target> - <random user#1> - <random user#2> .csv
+We can use a* to train and b* to text.
+
+./Attack:
+This folder contains the binary attacking data. The naming rule is as follows:
+Attack <Target> with <Attack Sample> - <random user#1 > - <random user#2 >.csv
+

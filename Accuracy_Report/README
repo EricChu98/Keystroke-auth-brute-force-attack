@@ -1,0 +1,11 @@
+Accuracy_Report
+
+
+accuracy_report.txt: 
+This file is our preliminary result of classification by RF, SVM, NN. But the problem is we got so many users whose accuracy are 1.00. Obviously there are some issues.
+
+accuracy_report2.txt: 
+This file contains the similar result of previous report, and the issue is not fixed. But in this file we added a matrix to show the TP, TN, FP, FN.
+
+accuracy_report_w_attacks.txt:
+This file is the final result of our experiment. We changed one of adopted AI models. It shows the RF, SVM, MLP classification accuracy, as well as the attack success rate for each users with each model to attack.

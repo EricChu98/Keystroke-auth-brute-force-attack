@@ -1,0 +1,979 @@
+('a1-4-18.csv', 'b1-14-18.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.95      0.87      0.91        46
+           1       0.78      0.91      0.84        23
+
+    accuracy                           0.88        69
+   macro avg       0.87      0.89      0.87        69
+weighted avg       0.89      0.88      0.89        69
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.90      0.93      0.91        46
+           1       0.86      0.78      0.82        23
+
+    accuracy                           0.88        69
+   macro avg       0.88      0.86      0.87        69
+weighted avg       0.88      0.88      0.88        69
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.88      0.80      0.84        46
+           1       0.67      0.78      0.72        23
+
+    accuracy                           0.80        69
+   macro avg       0.77      0.79      0.78        69
+weighted avg       0.81      0.80      0.80        69
+
+None
+('a2-4-18.csv', 'b2-11-30.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.73      1.00      0.84        16
+           1       1.00      0.25      0.40         8
+
+    accuracy                           0.75        24
+   macro avg       0.86      0.62      0.62        24
+weighted avg       0.82      0.75      0.69        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.84      1.00      0.91        16
+           1       1.00      0.62      0.77         8
+
+    accuracy                           0.88        24
+   macro avg       0.92      0.81      0.84        24
+weighted avg       0.89      0.88      0.87        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.80      1.00      0.89        16
+           1       1.00      0.50      0.67         8
+
+    accuracy                           0.83        24
+   macro avg       0.90      0.75      0.78        24
+weighted avg       0.87      0.83      0.81        24
+
+None
+('a3-14-18.csv', 'b3-4-18.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.89      0.86      0.87        28
+           1       0.75      0.80      0.77        15
+
+    accuracy                           0.84        43
+   macro avg       0.82      0.83      0.82        43
+weighted avg       0.84      0.84      0.84        43
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.86      0.86      0.86        28
+           1       0.73      0.73      0.73        15
+
+    accuracy                           0.81        43
+   macro avg       0.80      0.80      0.80        43
+weighted avg       0.81      0.81      0.81        43
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.81      0.61      0.69        28
+           1       0.50      0.73      0.59        15
+
+    accuracy                           0.65        43
+   macro avg       0.65      0.67      0.64        43
+weighted avg       0.70      0.65      0.66        43
+
+None
+('a4-2-7.csv', 'b4-19-25.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93        14
+           1       0.86      0.86      0.86         7
+
+    accuracy                           0.90        21
+   macro avg       0.89      0.89      0.89        21
+weighted avg       0.90      0.90      0.90        21
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.93      1.00      0.97        14
+           1       1.00      0.86      0.92         7
+
+    accuracy                           0.95        21
+   macro avg       0.97      0.93      0.94        21
+weighted avg       0.96      0.95      0.95        21
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93        14
+           1       0.86      0.86      0.86         7
+
+    accuracy                           0.90        21
+   macro avg       0.89      0.89      0.89        21
+weighted avg       0.90      0.90      0.90        21
+
+None
+('a5-4-14.csv', 'b5-4-18.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.83      0.83      0.83        30
+           1       0.67      0.67      0.67        15
+
+    accuracy                           0.78        45
+   macro avg       0.75      0.75      0.75        45
+weighted avg       0.78      0.78      0.78        45
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.82      0.90      0.86        30
+           1       0.75      0.60      0.67        15
+
+    accuracy                           0.80        45
+   macro avg       0.78      0.75      0.76        45
+weighted avg       0.80      0.80      0.79        45
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.88      0.77      0.82        30
+           1       0.63      0.80      0.71        15
+
+    accuracy                           0.78        45
+   macro avg       0.76      0.78      0.76        45
+weighted avg       0.80      0.78      0.78        45
+
+None
+('a6-14-18.csv', 'b6-4-18.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.80      1.00      0.89        12
+           1       1.00      0.57      0.73         7
+
+    accuracy                           0.84        19
+   macro avg       0.90      0.79      0.81        19
+weighted avg       0.87      0.84      0.83        19
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.92      1.00      0.96        12
+           1       1.00      0.86      0.92         7
+
+    accuracy                           0.95        19
+   macro avg       0.96      0.93      0.94        19
+weighted avg       0.95      0.95      0.95        19
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.80      1.00      0.89        12
+           1       1.00      0.57      0.73         7
+
+    accuracy                           0.84        19
+   macro avg       0.90      0.79      0.81        19
+weighted avg       0.87      0.84      0.83        19
+
+None
+('a7-4-18.csv', 'b7-14-18.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.95      0.64      0.77        28
+           1       0.58      0.93      0.72        15
+
+    accuracy                           0.74        43
+   macro avg       0.77      0.79      0.74        43
+weighted avg       0.82      0.74      0.75        43
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.76      0.68      0.72        28
+           1       0.50      0.60      0.55        15
+
+    accuracy                           0.65        43
+   macro avg       0.63      0.64      0.63        43
+weighted avg       0.67      0.65      0.66        43
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.86      0.64      0.73        28
+           1       0.55      0.80      0.65        15
+
+    accuracy                           0.70        43
+   macro avg       0.70      0.72      0.69        43
+weighted avg       0.75      0.70      0.70        43
+
+None
+('a8-4-18.csv', 'b8-4-14.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.90      0.64      0.75        14
+           1       0.58      0.88      0.70         8
+
+    accuracy                           0.73        22
+   macro avg       0.74      0.76      0.73        22
+weighted avg       0.78      0.73      0.73        22
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.90      0.64      0.75        14
+           1       0.58      0.88      0.70         8
+
+    accuracy                           0.73        22
+   macro avg       0.74      0.76      0.73        22
+weighted avg       0.78      0.73      0.73        22
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.83      0.71      0.77        14
+           1       0.60      0.75      0.67         8
+
+    accuracy                           0.73        22
+   macro avg       0.72      0.73      0.72        22
+weighted avg       0.75      0.73      0.73        22
+
+None
+('a9-4-14.csv', 'b9-4-18.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.91      1.00      0.95        20
+           1       1.00      0.82      0.90        11
+
+    accuracy                           0.94        31
+   macro avg       0.95      0.91      0.93        31
+weighted avg       0.94      0.94      0.93        31
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.83      1.00      0.91        20
+           1       1.00      0.64      0.78        11
+
+    accuracy                           0.87        31
+   macro avg       0.92      0.82      0.84        31
+weighted avg       0.89      0.87      0.86        31
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.91      1.00      0.95        20
+           1       1.00      0.82      0.90        11
+
+    accuracy                           0.94        31
+   macro avg       0.95      0.91      0.93        31
+weighted avg       0.94      0.94      0.93        31
+
+None
+('a10-4-18.csv', 'b10-14-18.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.90      0.95      0.93        20
+           1       0.90      0.82      0.86        11
+
+    accuracy                           0.90        31
+   macro avg       0.90      0.88      0.89        31
+weighted avg       0.90      0.90      0.90        31
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.83      1.00      0.91        20
+           1       1.00      0.64      0.78        11
+
+    accuracy                           0.87        31
+   macro avg       0.92      0.82      0.84        31
+weighted avg       0.89      0.87      0.86        31
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.78      0.90      0.84        20
+           1       0.75      0.55      0.63        11
+
+    accuracy                           0.77        31
+   macro avg       0.77      0.72      0.73        31
+weighted avg       0.77      0.77      0.76        31
+
+None
+('a11-4-18.csv', 'b11-4-14.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.88      0.88      0.88         8
+           1       0.75      0.75      0.75         4
+
+    accuracy                           0.83        12
+   macro avg       0.81      0.81      0.81        12
+weighted avg       0.83      0.83      0.83        12
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.80      1.00      0.89         8
+           1       1.00      0.50      0.67         4
+
+    accuracy                           0.83        12
+   macro avg       0.90      0.75      0.78        12
+weighted avg       0.87      0.83      0.81        12
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93         8
+           1       0.80      1.00      0.89         4
+
+    accuracy                           0.92        12
+   macro avg       0.90      0.94      0.91        12
+weighted avg       0.93      0.92      0.92        12
+
+None
+('a12-24-29.csv', 'b12-2-22.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.82      0.43      0.56        42
+           1       0.41      0.81      0.55        21
+
+    accuracy                           0.56        63
+   macro avg       0.62      0.62      0.56        63
+weighted avg       0.68      0.56      0.56        63
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.79      0.36      0.49        42
+           1       0.39      0.81      0.52        21
+
+    accuracy                           0.51        63
+   macro avg       0.59      0.58      0.51        63
+weighted avg       0.66      0.51      0.50        63
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.81      0.40      0.54        42
+           1       0.40      0.81      0.54        21
+
+    accuracy                           0.54        63
+   macro avg       0.61      0.61      0.54        63
+weighted avg       0.67      0.54      0.54        63
+
+None
+('a13-4-18.csv', 'b13-2-14.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.60      0.19      0.29        32
+           1       0.32      0.75      0.44        16
+
+    accuracy                           0.38        48
+   macro avg       0.46      0.47      0.37        48
+weighted avg       0.51      0.38      0.34        48
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.76      0.50      0.60        32
+           1       0.41      0.69      0.51        16
+
+    accuracy                           0.56        48
+   macro avg       0.58      0.59      0.56        48
+weighted avg       0.64      0.56      0.57        48
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.86      0.59      0.70        32
+           1       0.50      0.81      0.62        16
+
+    accuracy                           0.67        48
+   macro avg       0.68      0.70      0.66        48
+weighted avg       0.74      0.67      0.68        48
+
+None
+('a14-4-18.csv', 'b14-11-13.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.67      1.00      0.80        16
+           1       0.00      0.00      0.00         8
+
+    accuracy                           0.67        24
+   macro avg       0.33      0.50      0.40        24
+weighted avg       0.44      0.67      0.53        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.73      0.50      0.59        16
+           1       0.38      0.62      0.48         8
+
+    accuracy                           0.54        24
+   macro avg       0.56      0.56      0.53        24
+weighted avg       0.61      0.54      0.55        24
+
+None
+('a15-13-14.csv', 'b15-11-18.csv')
+Random Forest Classifier:
+C:\Users\tayzoon\Anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1245: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\tayzoon\Anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1245: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\tayzoon\Anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1245: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+           0       0.88      0.44      0.58        16
+           1       0.44      0.88      0.58         8
+
+    accuracy                           0.58        24
+   macro avg       0.66      0.66      0.58        24
+weighted avg       0.73      0.58      0.58        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.69      0.56      0.62        16
+           1       0.36      0.50      0.42         8
+
+    accuracy                           0.54        24
+   macro avg       0.53      0.53      0.52        24
+weighted avg       0.58      0.54      0.55        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.89      0.50      0.64        16
+           1       0.47      0.88      0.61         8
+
+    accuracy                           0.62        24
+   macro avg       0.68      0.69      0.62        24
+weighted avg       0.75      0.62      0.63        24
+
+None
+('a16-13-14.csv', 'b16-11-18.csv')
+Random Forest Classifier:
+C:\Users\tayzoon\Anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1245: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\tayzoon\Anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1245: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\tayzoon\Anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1245: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\tayzoon\Anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1245: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\tayzoon\Anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1245: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\tayzoon\Anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1245: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+           0       0.67      1.00      0.80        16
+           1       0.00      0.00      0.00         8
+
+    accuracy                           0.67        24
+   macro avg       0.33      0.50      0.40        24
+weighted avg       0.44      0.67      0.53        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.67      1.00      0.80        16
+           1       0.00      0.00      0.00         8
+
+    accuracy                           0.67        24
+   macro avg       0.33      0.50      0.40        24
+weighted avg       0.44      0.67      0.53        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.71      0.94      0.81        16
+           1       0.67      0.25      0.36         8
+
+    accuracy                           0.71        24
+   macro avg       0.69      0.59      0.59        24
+weighted avg       0.70      0.71      0.66        24
+
+None
+('a17-4-14.csv', 'b17-4-18.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.96      0.87      0.91        30
+           1       0.79      0.94      0.86        16
+
+    accuracy                           0.89        46
+   macro avg       0.88      0.90      0.88        46
+weighted avg       0.90      0.89      0.89        46
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.96      0.83      0.89        30
+           1       0.75      0.94      0.83        16
+
+    accuracy                           0.87        46
+   macro avg       0.86      0.89      0.86        46
+weighted avg       0.89      0.87      0.87        46
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.96      0.77      0.85        30
+           1       0.68      0.94      0.79        16
+
+    accuracy                           0.83        46
+   macro avg       0.82      0.85      0.82        46
+weighted avg       0.86      0.83      0.83        46
+
+None
+('a18-2-7.csv', 'b18-22-25.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.79      0.79      0.79        14
+           1       0.57      0.57      0.57         7
+
+    accuracy                           0.71        21
+   macro avg       0.68      0.68      0.68        21
+weighted avg       0.71      0.71      0.71        21
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.79      0.79      0.79        14
+           1       0.57      0.57      0.57         7
+
+    accuracy                           0.71        21
+   macro avg       0.68      0.68      0.68        21
+weighted avg       0.71      0.71      0.71        21
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.75      0.86      0.80        14
+           1       0.60      0.43      0.50         7
+
+    accuracy                           0.71        21
+   macro avg       0.68      0.64      0.65        21
+weighted avg       0.70      0.71      0.70        21
+
+None
+('a19-7-25.csv', 'b19-2-22.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.78      1.00      0.88        14
+           1       1.00      0.43      0.60         7
+
+    accuracy                           0.81        21
+   macro avg       0.89      0.71      0.74        21
+weighted avg       0.85      0.81      0.78        21
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.78      1.00      0.88        14
+           1       1.00      0.43      0.60         7
+
+    accuracy                           0.81        21
+   macro avg       0.89      0.71      0.74        21
+weighted avg       0.85      0.81      0.78        21
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.78      1.00      0.88        14
+           1       1.00      0.43      0.60         7
+
+    accuracy                           0.81        21
+   macro avg       0.89      0.71      0.74        21
+weighted avg       0.85      0.81      0.78        21
+
+None
+('a20-4-11.csv', 'b20-18-30.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.90      0.56      0.69        16
+           1       0.50      0.88      0.64         8
+
+    accuracy                           0.67        24
+   macro avg       0.70      0.72      0.66        24
+weighted avg       0.77      0.67      0.67        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.90      0.56      0.69        16
+           1       0.50      0.88      0.64         8
+
+    accuracy                           0.67        24
+   macro avg       0.70      0.72      0.66        24
+weighted avg       0.77      0.67      0.67        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.90      0.56      0.69        16
+           1       0.50      0.88      0.64         8
+
+    accuracy                           0.67        24
+   macro avg       0.70      0.72      0.66        24
+weighted avg       0.77      0.67      0.67        24
+
+None
+('a21-4-11.csv', 'b21-18-30.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+None
+('a22-4-18.csv', 'b22-12-19.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.59      0.23      0.33        44
+           1       0.31      0.68      0.42        22
+
+    accuracy                           0.38        66
+   macro avg       0.45      0.45      0.38        66
+weighted avg       0.49      0.38      0.36        66
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.60      0.20      0.31        44
+           1       0.31      0.73      0.44        22
+
+    accuracy                           0.38        66
+   macro avg       0.46      0.47      0.37        66
+weighted avg       0.50      0.38      0.35        66
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.69      0.20      0.32        44
+           1       0.34      0.82      0.48        22
+
+    accuracy                           0.41        66
+   macro avg       0.52      0.51      0.40        66
+weighted avg       0.57      0.41      0.37        66
+
+None
+('a23-4-11.csv', 'b23-18-30.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       1.00      0.94      0.97        16
+           1       0.89      1.00      0.94         8
+
+    accuracy                           0.96        24
+   macro avg       0.94      0.97      0.95        24
+weighted avg       0.96      0.96      0.96        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+None
+('a24-4-11.csv', 'b24-18-30.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+None
+('a25-4-18.csv', 'b25-14-18.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.83      0.83      0.83         6
+           1       0.75      0.75      0.75         4
+
+    accuracy                           0.80        10
+   macro avg       0.79      0.79      0.79        10
+weighted avg       0.80      0.80      0.80        10
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.71      0.83      0.77         6
+           1       0.67      0.50      0.57         4
+
+    accuracy                           0.70        10
+   macro avg       0.69      0.67      0.67        10
+weighted avg       0.70      0.70      0.69        10
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.83      0.83      0.83         6
+           1       0.75      0.75      0.75         4
+
+    accuracy                           0.80        10
+   macro avg       0.79      0.79      0.79        10
+weighted avg       0.80      0.80      0.80        10
+
+None
+('a26-4-11.csv', 'b26-18-30.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       1.00      0.56      0.72        16
+           1       0.53      1.00      0.70         8
+
+    accuracy                           0.71        24
+   macro avg       0.77      0.78      0.71        24
+weighted avg       0.84      0.71      0.71        24
+
+None
+('a27-4-11.csv', 'b27-18-30.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.82      0.56      0.67        16
+           1       0.46      0.75      0.57         8
+
+    accuracy                           0.62        24
+   macro avg       0.64      0.66      0.62        24
+weighted avg       0.70      0.62      0.63        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.86      0.75      0.80        16
+           1       0.60      0.75      0.67         8
+
+    accuracy                           0.75        24
+   macro avg       0.73      0.75      0.73        24
+weighted avg       0.77      0.75      0.76        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.82      0.56      0.67        16
+           1       0.46      0.75      0.57         8
+
+    accuracy                           0.62        24
+   macro avg       0.64      0.66      0.62        24
+weighted avg       0.70      0.62      0.63        24
+
+None
+('a28-4-11.csv', 'b28-18-30.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.82      0.56      0.67        16
+           1       0.46      0.75      0.57         8
+
+    accuracy                           0.62        24
+   macro avg       0.64      0.66      0.62        24
+weighted avg       0.70      0.62      0.63        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94        16
+           1       1.00      0.75      0.86         8
+
+    accuracy                           0.92        24
+   macro avg       0.94      0.88      0.90        24
+weighted avg       0.93      0.92      0.91        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.90      0.56      0.69        16
+           1       0.50      0.88      0.64         8
+
+    accuracy                           0.67        24
+   macro avg       0.70      0.72      0.66        24
+weighted avg       0.77      0.67      0.67        24
+
+None
+('a29-11-30.csv', 'b29-11-12.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       0.83      0.62      0.71        16
+           1       0.50      0.75      0.60         8
+
+    accuracy                           0.67        24
+   macro avg       0.67      0.69      0.66        24
+weighted avg       0.72      0.67      0.68        24
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       0.84      1.00      0.91        16
+           1       1.00      0.62      0.77         8
+
+    accuracy                           0.88        24
+   macro avg       0.92      0.81      0.84        24
+weighted avg       0.89      0.88      0.87        24
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       0.83      0.62      0.71        16
+           1       0.50      0.75      0.60         8
+
+    accuracy                           0.67        24
+   macro avg       0.67      0.69      0.66        24
+weighted avg       0.72      0.67      0.68        24
+
+None
+('a30-2-19.csv', 'b30-19-29.csv')
+Random Forest Classifier:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        18
+           1       1.00      1.00      1.00        10
+
+    accuracy                           1.00        28
+   macro avg       1.00      1.00      1.00        28
+weighted avg       1.00      1.00      1.00        28
+
+SVM:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        18
+           1       1.00      1.00      1.00        10
+
+    accuracy                           1.00        28
+   macro avg       1.00      1.00      1.00        28
+weighted avg       1.00      1.00      1.00        28
+
+Neural Network
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        18
+           1       1.00      1.00      1.00        10
+
+    accuracy                           1.00        28
+   macro avg       1.00      1.00      1.00        28
+weighted avg       1.00      1.00      1.00        28
+
+None
+​
